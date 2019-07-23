@@ -34,14 +34,21 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+HTML is the foundation of web developemnet. With HTML as a base, your layouts will have proper structuring and formatting.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Inline elelments only takes up the space that's needed. Block elements take full advantage of space.
 3. What are the 4 areas of the box model?
 
+Border, Padding, Content, and Margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Cross axis
 
 5. Explain why git is valuable to a team of developers.
 
+Its a great to help devlopers working seperately to come together and work on projects remotely.
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up

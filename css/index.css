@@ -234,15 +234,19 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 800px;
+}
 .nav{
-margin-left: 280px;
 word-spacing: 65px;
 margin-bottom: 30px;
 
 }
 .head-image1{
-    margin-left: 280px;
-    margin-bottom: 20px;
+     margin-bottom: 20px;
 }
 a{
     text-decoration: none;
